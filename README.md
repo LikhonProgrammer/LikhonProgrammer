@@ -1,13 +1,9 @@
-<h1 align="center">
-  <img src="https://telegra.ph/file/693584e1fc81707995af5.png" alt="Likhon Tech Solutions Banner" width="100%">
-</h1>
-
 <p align="center">
-  <strong>Building solutions with TypeScript and Python. 💌</strong>
+  <strong>Likhon Sheikh</strong>
 </p>
 
 <p align="center">
-  Crafting elegant solutions and pushing the boundaries of what's possible in code.
+   <strong>Building solutions with TypeScript and Python. 💌</strong>
 </p>
 
 <p align="center">
