@@ -2,13 +2,6 @@
   <img src="https://telegra.ph/file/693584e1fc81707995af5.png" alt="Likhon Tech Solutions Banner" width="100%">
 </h1>
 
-<h1 align="center">Likhon Shdikh<br>
-</h1>
-
-<p align="center">
-  <em>⊛ ━━━━･⌁ 𝐋𝐈𝐊𝐇𝐎𝐍 ⌁･━━━━ ⊛</em>
-</p>
-
 <p align="center">
   <strong>Passionate Developer | TypeScript Enthusiast | Python Aficionado</strong>
 </p>
@@ -28,14 +21,8 @@
 <h2 align="center">🌐 Connect with me</h2>
 
 <p align="center">
-  <a href="https://github.com/LikhonProgrammer">
-    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
-  </a>
   <a href="https://t.me/LikhonProgrammer">
     <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram">
-  </a>
-  <a href="https://youtube.com/LikhonTechSolutions">
-    <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube">
   </a>
 </p>
 
@@ -63,11 +50,11 @@
 <h2 align="center">📊 GitHub Stats</h2>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=LikhonProgrammer&show_icons=true&theme=radical" alt="Likhon's GitHub stats">
+  <img src="https://github-readme-stats.vercel.app/api?username=LikhonProgrammer&show_icons=true&theme=radical" alt=GitHub Stats">
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=LikhonProgrammer&theme=radical" alt="Likhon's GitHub streak">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=LikhonProgrammer&theme=radical" alt="Streak">
 </p>
 
 <p align="center">
