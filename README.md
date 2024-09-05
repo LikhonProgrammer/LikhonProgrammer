@@ -2,10 +2,7 @@
   <img src="https://telegra.ph/file/693584e1fc81707995af5.png" alt="Likhon Tech Solutions Banner" width="100%">
 </h1>
 
-<h1 align="center">
-  ┏━━━━━━━⍟<br>
-  ┃ Likhon Shdikh 💌<br>
-  ┗━━━━━━━━━━━⊛
+<h1 align="center">Likhon Shdikh<br>
 </h1>
 
 <p align="center">
