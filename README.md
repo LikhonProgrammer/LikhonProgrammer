@@ -45,15 +45,7 @@
   <img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" alt="React">
 </p>
 
-<h2 align="center">📊 GitHub Stats</h2>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=LikhonProgrammer&theme=radical" alt="Streak">
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LikhonProgrammer&layout=compact&theme=radical" alt="Top Languages">
-</p>
+<h2 align="center"></h2>
 
 <h2 align="center">🏆 GitHub Trophies</h2>
 
