@@ -3,7 +3,7 @@
 </h1>
 
 <p align="center">
-  <strong>Passionate Developer | TypeScript Enthusiast | Python Aficionado</strong>
+  <strong>Building solutions with TypeScript and Python. 💌</strong>
 </p>
 
 <p align="center">
