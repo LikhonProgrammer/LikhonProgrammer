@@ -3,6 +3,12 @@
 </p>
 
 <p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=LikhonProgrammer&show_icons=true&theme=radical" alt=GitHub Stats">
+</p>
+
+
+
+<p align="center">
    <strong>Building solutions with TypeScript and Python. 💌</strong>
 </p>
 
@@ -44,10 +50,6 @@
 </p>
 
 <h2 align="center">📊 GitHub Stats</h2>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=LikhonProgrammer&show_icons=true&theme=radical" alt=GitHub Stats">
-</p>
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=LikhonProgrammer&theme=radical" alt="Streak">
