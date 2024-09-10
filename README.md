@@ -1,7 +1,3 @@
-Here's a shorter, modern, and cool version of your original content, keeping the essential details:
-
----
-
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=LikhonProgrammer&show_icons=true&theme=radical" alt="GitHub Stats">
 </p>
